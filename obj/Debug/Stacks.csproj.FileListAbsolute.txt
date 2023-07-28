@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\bin\Debug\Stacks.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\bin\Debug\Stacks.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\bin\Debug\Stacks.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\obj\Debug\Stacks.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\obj\Debug\Stacks.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Stacks\obj\Debug\Stacks.pdb
